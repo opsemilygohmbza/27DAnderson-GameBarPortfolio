@@ -1,2 +1,0 @@
-# GameBarPortfolio
-Portfolio for GameBar
